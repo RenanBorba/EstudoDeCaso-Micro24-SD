@@ -1,0 +1,1 @@
+# EstudoDeCaso-Micro24-SD
