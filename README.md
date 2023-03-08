@@ -1,4 +1,4 @@
-# Pós-Graduação Lato Sensu em Saúde Digital - UFG
+# Pós-Graduação Lato Sensu em Saúde Digital
 ## Micro 24: HL7 / FHIR
 ### Como a informação em saúde é enviada de um estabelecimento para outro?
 <br>
