@@ -19,5 +19,5 @@
 
 <br><br>
 
-![fhir](https://github.com/RenanBorba/EstudoDeCaso-Micro24-SD/assets/48495838/d4757640-7ee1-4da0-9330-7c15094bcc41)
+![fhir](https://github.com/RenanBorba/EstudoDeCaso-Micro24-SD/assets/48495838/d4757640-7ee1-4da0-9330-7c15094bcc41) <br>
 ![fhir2](https://github.com/RenanBorba/EstudoDeCaso-Micro24-SD/assets/48495838/2fa25ab8-0b16-4d5e-851b-f4a94da6edeb)
